@@ -1,0 +1,6 @@
+*.qcow2
+*.tfstate*
+*.auto.tfvars
+.DS_Store
+.svn/
+.terraform/
